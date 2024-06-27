@@ -1,0 +1,14 @@
+Adresse: Name, Vorname, Strasse, Plz, Ort
+Produkt: Name, EAN, Einkaufspreis, Verkaufspreis, Datum, Menge
+Klausur: Name, Vorname, MatNr, ModulNr, Datum, Note
+Blitzer: Plz, Ort, Strasse, Datum, Zeit, Kennzeichen, Geschwindigkeit
+
+YYYY-MM-DD (z. B. 2024-05-17)
+DD.MM.YYYY (z. B. 17.05.2024)
+MM/DD/YYYY (z. B. 05/17/2024)
+DD/MM/YYYY (z. B. 17/05/2024)
+MMMM DD, YYYY (z. B. May 17, 2024)
+DD MMMM YYYY (z. B. 17 May 2024)
+DD.MM.YY (z. B. 17.05.24)
+MM/DD/YY (z. B. 05/17/24)
+DD/MM/YY (z. B. 17/05/24)

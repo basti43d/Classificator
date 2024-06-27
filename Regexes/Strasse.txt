@@ -1,0 +1,9 @@
+.*?str\.
+.*?strasse
+.*?Weg
+.*?weg
+.*?\wStraße
+\wStr\.
+Am .*
+An der .*
+.*?Allee
